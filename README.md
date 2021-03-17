@@ -23,7 +23,7 @@ Next-gen browser automation test framework for Node.js with Cucumber
 ---
 ## Description
 
-End to end testing for NATO project with Cucumber and WebdriverIO. The base of framework is built with Javascript programming language and Gherkin.
+End to end testing with Cucumber and WebdriverIO. The base of framework is built with Javascript programming language and Gherkin.
 
 ### File organization
 
